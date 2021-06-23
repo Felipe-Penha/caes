@@ -148,7 +148,7 @@ export default function SobreNos() {
             ficar centralizado bonitinho. Foto do CAWS ou do campus?
           </p>
         </div>
-        Dilk
+
         <img class={`art-img`} src={`felipe.jpeg`} />
       </article>
 
