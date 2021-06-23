@@ -155,7 +155,7 @@ export default function SobreNos() {
       <article class={`art-1`}>
         <img class={`art-img`} src={`patrick.jpeg`} />
         <div class={`text-group`}>
-          <h2 class={`art-title`}>Patrick Elias</h2>
+          <h2 class={`art-title`}>Patrick Cardoso</h2>
           <h3 class={`art-subtitle`}>Secretário Geral</h3>
           <p class={`art-text`}>
             Texto informativo sobre o que é o CAWS e sua importância. Um texto
