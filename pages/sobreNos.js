@@ -114,7 +114,7 @@ export default function SobreNos() {
       <article class={`art-1`}>
         <img class={`art-img`} src={`mauricio.jpeg`} />
         <div class={`text-group`}>
-          <h2 class={`art-title`}>Maurício Mattos</h2>
+          <h2 class={`art-title`}>Maurício Matos</h2>
           <h3 class={`art-subtitle`}>
             1º Secretário de Comunicação e Representante do Bacharelado
           </h3>
@@ -210,7 +210,7 @@ export default function SobreNos() {
 
       <article class={`art-2`}>
         <div class={`text-group`}>
-          <h2 class={`art-title`}>Julya Cevolane</h2>
+          <h2 class={`art-title`}>Julya Vieira</h2>
           <h3 class={`art-subtitle`}>Vice da Tesouraria</h3>
           <p class={`art-text`}>
             Texto informativo sobre o que é o CAWS e sua importância. Um texto
