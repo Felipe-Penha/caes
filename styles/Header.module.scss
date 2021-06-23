@@ -3,10 +3,23 @@
   grid-template-areas: 'logo button-group';
   align-items: center;
 
+  @media screen and (max-width: 520px) {
+    margin-left: -30px;
+    margin-right: -30px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .logo {
     grid-area: logo;
     font-size: 40px;
     font-weight: 800;
+
+    @media screen and (max-width: 520px) {
+      font-size: 35px;
+    }
   }
 
   .button-group {
@@ -17,16 +30,40 @@
     align-content: center;
     z-index: 20;
 
+    @media screen and (max-width: 520px) {
+      display: none;
+    }
+
     .button-sbn {
       grid-area: button-sbn;
       color: #424242;
-      background-color: #f6f6f6;
-      width: 192px;
-      height: 51px;
+      background-color: transparent;
+      width: 182px;
+      height: 41px;
       font-weight: 600;
       font-size: 20px;
       border-radius: 10px;
       border: none;
+
+      @media screen and (max-width: 992px) {
+        font-size: 18px;
+        width: 170px;
+        height: 41px;
+      }
+
+      @media screen and (max-width: 768px) {
+        font-size: 16px;
+        width: 160px;
+        height: 31px;
+      }
+
+      @media screen and (max-width: 520px) {
+        margin-left: -30px;
+        margin-right: -30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
     }
 
     .button-prop {
@@ -34,11 +71,23 @@
       border: none;
       color: #f6f6f6;
       background-color: #424242;
-      width: 192px;
-      height: 51px;
+      width: 182px;
+      height: 41px;
       font-weight: 600;
       font-size: 20px;
       border-radius: 10px;
+
+      @media screen and (max-width: 992px) {
+        font-size: 18px;
+        width: 170px;
+        height: 41px;
+      }
+
+      @media screen and (max-width: 768px) {
+        font-size: 16px;
+        width: 160px;
+        height: 31px;
+      }
     }
   }
 }
