@@ -119,7 +119,7 @@ export default function SobreNos() {
       <div class={`art-sbn-group`}>
         <article class={`art-1`}>
           <img class={`art-img`} src={`mauricio.jpeg`} />
-          <div class={`text-group`}>
+          <div class={`text-group mau`}>
             <h2 class={`art-title`}>Maurício Matos</h2>
             <h3 class={`art-subtitle`}>
               1º Secretário de Comunicação e Representante do Bacharelado
