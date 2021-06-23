@@ -39,7 +39,7 @@ export default function Home() {
       </main>
 
       <article class={`art-1`}>
-        <img class={`art-img`} src={`defaultRect.png`} />
+        <img class={`art-img`} src={`caws.jpeg`} />
         <div class={`text-group`}>
           <h2 class={`art-title`}>O que é o CAWS</h2>
           <p class={`art-text`}>
