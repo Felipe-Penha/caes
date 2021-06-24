@@ -110,17 +110,14 @@ export default function SobreNos() {
 
         <article class={`art-prop-2`}>
           <div class={`text-prop-group`}>
-            <h2 class={`art-title`}>O que é o CAWS</h2>
+            <h2 class={`art-title`}>Site do CAWS</h2>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Atualizar, otimizar, movimentar e tornar o site do CAWS mais
+              utilizável. A ideia é tornar o nosso site uma espécie de central
+              do curso, com todas as informações do CAWS, seção para sugestão de
+              pautas, abas com os trabalhos dos estudantes expostos, em posição
+              de honra e destaque, abas com revistas, sites e canais de ciência
+              e de divulgação científica confiáveis, etc.
             </p>
           </div>
         </article>
