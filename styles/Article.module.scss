@@ -79,8 +79,20 @@
       display: grid;
       grid-template-areas:
         'art-title'
-        'art-text';
+        'art-text-group';
       row-gap: 10px;
+
+      .art-text-group {
+        grid-area: art-text-group;
+        display: grid;
+        grid-template-areas:
+          'art-text-1'
+          'art-text-2'
+          'art-text-3'
+          'art-text-4';
+
+        row-gap: 20px;
+      }
 
       @media (min-width: 992px) {
         margin: 0 100px;
@@ -96,8 +108,36 @@
         }
       }
 
-      .art-text {
-        grid-area: art-text;
+      .art-text-1 {
+        grid-area: art-text-1;
+        text-align: justify;
+
+        @media (min-width: 992px) {
+          font-size: 20px;
+        }
+      }
+
+      .art-text-2 {
+        grid-area: art-text-2;
+        text-align: justify;
+
+        @media (min-width: 992px) {
+          font-size: 20px;
+        }
+      }
+
+      .art-text-3 {
+        grid-area: art-text-3;
+        text-align: justify;
+
+        @media (min-width: 992px) {
+          font-size: 20px;
+        }
+      }
+
+      .art-text-4 {
+        grid-area: art-text-4;
+        text-align: justify;
 
         @media (min-width: 992px) {
           font-size: 20px;

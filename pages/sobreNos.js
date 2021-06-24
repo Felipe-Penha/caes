@@ -77,15 +77,17 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Natasha Oliveira</h2>
             <h3 class={`art-subtitle`}>Presidente</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Meu nome é Natasha, tenho 25 anos, sou da turma de 2020/1. Sou bem
+              ecletica quando se trata de música, vou de barões da pisadinha até
+              imagine dragons.Eu fazia engenharia civil, e na engenharia percebi
+              que gostava mais da parte da física, fiz a mudança de curso e hoje
+              me encontrei no curso. Como presidente espero que junto com a
+              chapa possamos principalmente nesse momento remoto deixar tudo
+              menos frio para os alunos e professores, que mesmo um contato
+              virtual possa ser caloroso, que possamos construir algo agradável
+              a todos. E que atenda a todos, todos nós temos sentido nossas
+              dificuldades no quadro atual, mas ninguém está sozinho, estamos
+              aqui para pegar na mão de todos e caminharmos juntos.
             </p>
           </div>
           <div class={`art-img natasha`}></div>
@@ -99,15 +101,13 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Arthur</h2>
             <h3 class={`art-subtitle`}>Vice presidente</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Meu nome é Arthur Ferreira, tenho 21 anos de idade, sou aluno do
+              curso de física desde 2020. Sou bem eclético, porém eu escuto mais
+              RAP, amo surfar e viajar. Eu como candidato a Vice-presidente do
+              CAWS pretendo junto a Natasha desenvolver uma melhora no curso,
+              tornando o EAD temporário um pouco mais prazeroso e aprimorando
+              cada vez mais o centro acadêmico. Espero suprir as espectativas de
+              todos!.
             </p>
           </div>
         </article>
@@ -117,15 +117,15 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Gabriel Galeano</h2>
             <h3 class={`art-subtitle`}>Diretor de Comunicação</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Aluno de física da turma de 2017, com especialização na área de
+              instrumentação científica, espectroscopia e divulgação científica.
+              Membro ativo da chapa anterior do Caws, onde foi responsável pela
+              comunicação geral, pelas recepções dos calouros entre outras
+              atividades. Conhecido por ser nerd, gostar de assuntos como
+              quadrinhos, ficção científica, livros, animes, mangás, filmes,
+              séries e cultura pop em geral. Tem o gosto musical mais voltado
+              pro pop, pro Rock, pro Rap e com um fraco por grupos a capela. Tem
+              o costume de entrar em todo e qualquer grupo possível.
             </p>
           </div>
           <div class={`art-img galeano`}></div>
@@ -141,15 +141,20 @@ export default function SobreNos() {
               1º Secretário de Comunicação e Representante do Bacharelado
             </h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Licenciado em Física pelo Ifes, pautou sua jornada acadêmica na
+              pesquisa em Ensino de Física com enfase na Prática e Inovação em
+              Ensino. Foi bolsista do Programa Institucional de Iniciação a
+              Docência e residente do Programa Residência Pedagógica. Atuou como
+              Monitor do Loboratório de Instrumentação para o Ensino de Física -
+              Pibid, além de ter atuado como Monitor das disciplinas de
+              Geometria Analítica e Fundamentos da Matemática Elementar. Foi
+              bolsista do Programa de Formação da Sedu por dois anos, atuando em
+              sala de aula e laboratórios de escola da rede estadual de ensino,
+              bem como nos ambitos de gestão administrativa e pedagógica dessas
+              instituições. Membro ativo da gestão anterior na função de
+              secretário geral. Atualmente é estudante do Curso de Bacharelado
+              em Física, monitor do Laboratório Pibid e Professor da rede
+              estadual de ensino.
             </p>
           </div>
         </article>
@@ -182,15 +187,13 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Patrick Cardoso</h2>
             <h3 class={`art-subtitle`}>Secretário Geral</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Licenciando em Física pelo IFES, participou do projeto de extensão
+              do IFES pela Praça da Ciência, estagiou na Prefeitura de Vila
+              Velha como auxiliar de professor em programação no projeto
+              Robótica, desde sua entrada no IFES, até os dias atuais, fez parte
+              do Show de Física, agindo nos bastidores como fotógrafo, e tem a
+              fotografia como seu principal hobby. Atualmente é bolsista do
+              Programa Institucional de Bolsa de Iniciação a Docência.
             </p>
           </div>
         </article>
@@ -200,15 +203,14 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Maria Alice</h2>
             <h3 class={`art-subtitle`}>Vice da Secretaria Geral</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Olá galera, eu sou a Maria Alice, estudante da turma de 2020.
+              Descobri meu interesse pela física graças a uma iniciação
+              científica que fiz durante o ensino médio e desde então a paixão
+              só cresceu. Tenho um gosto musical bem variado mas ouço
+              principalmente MPB, samba e rock e amo assistir filmes de ficção
+              científica, fantasia, terror e animações. No meu tempo livre eu
+              curto muito cantar, jogar jogos eletrônicos, ir ao cinema, ouvir
+              podcast e me reunir com os meus amigos.
             </p>
           </div>
           <div class={`art-img alice`}></div>
@@ -222,15 +224,11 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Ivo Amorim</h2>
             <h3 class={`art-subtitle`}>Tesoureiro</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Ivo Souto de Amorim 27 anos Eclético mas prefere musicas fundo do
+              poço kk Gosto de jogar, ver vídeos, series, hqs, sair com amigos ,
+              conversar... O que me fez escolher foi minha ex professora de
+              física Aline Gama do ifes Vitória Como tesoureiro pretendo manter
+              a transparência e serenidade e ajudar ao máximo em tudo que puder
             </p>
           </div>
         </article>
@@ -240,15 +238,13 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Julya Vieira</h2>
             <h3 class={`art-subtitle`}>Vice da Tesouraria</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Sempre sonhou em dar aula desde criança e esse sempre foi seu
+              sonho, a escolha do curso não foi muito difícil já que sempre
+              gostou bastante de física e possui afinidade. Nas horas livres
+              costuma desenhar e ouvir música ou ver uma série, o gosto musical
+              é bem eclético mesmo, e gosta muito de séries e filmes de
+              fantasia. Um dos seus hobbies é maquiar, tanto que é maquiadora
+              nas horas livres também.
             </p>
           </div>
           <div class={`art-img julya`}></div>

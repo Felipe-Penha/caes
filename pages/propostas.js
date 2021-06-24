@@ -93,23 +93,6 @@ export default function SobreNos() {
       <div class={`art-prop-group`}>
         <article class={`art-prop-1`}>
           <div class={`text-prop-group`}>
-            <h2 class={`art-title`}>O que é o CAWS</h2>
-            <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-            </p>
-          </div>
-        </article>
-
-        <article class={`art-prop-2`}>
-          <div class={`text-prop-group`}>
             <h2 class={`art-title`}>Site do CAWS</h2>
             <p class={`art-text`}>
               Atualizar, otimizar, movimentar e tornar o site do CAWS mais
@@ -118,6 +101,54 @@ export default function SobreNos() {
               pautas, abas com os trabalhos dos estudantes expostos, em posição
               de honra e destaque, abas com revistas, sites e canais de ciência
               e de divulgação científica confiáveis, etc.
+            </p>
+          </div>
+        </article>
+
+        <article class={`art-prop-2`}>
+          <div class={`text-prop-group`}>
+            <h2 class={`art-title`}>CAWS Connect</h2>
+            <p class={`art-text`}>
+              A ideia é criar um aplicativo para o CA, CAWS Connect, onde
+              estarão disponíveis as informações do site do CAWS, assim como o
+              jornal do CAWS. Nesse jornal, estarão expostas desde atualizações
+              do curso até as mais diversas novidades das ciências.
+            </p>
+          </div>
+        </article>
+      </div>
+      <div class={`art-prop-group`}>
+        <article class={`art-prop-1`}>
+          <div class={`text-prop-group`}>
+            <h2 class={`art-title`}>Campeonato de jogos</h2>
+            <p class={`art-text`}>
+              Visando aproximar o curso dos esportes ou dos e-sports,
+              pretendemos realizar o tão pedido campeonato de jogos.
+            </p>
+          </div>
+        </article>
+
+        <article class={`art-prop-2`}>
+          <div class={`text-prop-group`}>
+            <h2 class={`art-title`}>Redes sociais</h2>
+            <p class={`art-text`}>
+              Pretendemos aumentar a presença do CAWS nas redes sociais,
+              interagindo com estudantes, postando decisões e reagindo à web da
+              melhor maneira possível.
+            </p>
+          </div>
+        </article>
+      </div>
+
+      <div class={`art-prop-group`}>
+        <article class={`art-prop-1`}>
+          <div class={`text-prop-group`}>
+            <h2 class={`art-title`}>Eventos quinzenais</h2>
+            <p class={`art-text`}>
+              Para aumentar a interação do curso, principalmente durante as
+              atividades remotas, pretendemos realizar eventos abertos e
+              debates, sobre temas escolhidos por vocês, e lives com convidados,
+              professor(a) do IFES ou não.
             </p>
           </div>
         </article>

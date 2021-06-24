@@ -7,6 +7,8 @@
   padding: 0 30px;
   margin-bottom: 30px;
 
+  align-items: flex-start;
+
   @media (min-width: 768px) {
     grid-template-areas: 'art-index-1 art-index-2';
     column-gap: 20px;
@@ -25,6 +27,7 @@
       'text-group';
     row-gap: 20px;
     justify-items: center;
+    max-width: 530px;
 
     .art-img {
       grid-area: art-img;
@@ -73,6 +76,7 @@
       'text-group';
     row-gap: 20px;
     justify-items: center;
+    max-width: 530px;
 
     .art-img {
       grid-area: art-img;
