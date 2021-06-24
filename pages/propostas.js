@@ -68,34 +68,24 @@ export default function SobreNos() {
       <div class={`art-prop-group`}>
         <article class={`art-prop-1`}>
           <div class={`text-prop-group`}>
-            <h2 class={`art-title`}>O que é o CAWS</h2>
+            <h2 class={`art-title`}>Grupos de estudo</h2>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Pretendemos incentivar e ajudar a administrar grupos de estudo
+              específicos, sejam eles de matérias específicas ou de amigos.
+              Forneceremos ferramentas, auxílio e assistência acessíveis através
+              de um canal de comunicação com o líder de cada grupo de estudo.
             </p>
           </div>
         </article>
 
         <article class={`art-prop-2`}>
           <div class={`text-prop-group`}>
-            <h2 class={`art-title`}>O que é o CAWS</h2>
+            <h2 class={`art-title`}>Clube do CAWS</h2>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              De forma semelhante aos grupos de estudo, pretendemos incentivar a
+              realização de clubes, pensados anteriormente e nunca postos em
+              prática. Também, de forma organizada e com o caws à disposição a
+              todo momento.
             </p>
           </div>
         </article>
