@@ -46,34 +46,22 @@ export default function SobreNos() {
       <div class={`art-prop-group`}>
         <article class={`art-prop-1`}>
           <div class={`text-prop-group`}>
-            <h2 class={`art-title`}>O que é o CAWS</h2>
+            <h2 class={`art-title`}>Finanças</h2>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Movimentar a área financeira do centro acadêmico, colocando ideias
+              novas e antigas em prática, para que finalmente tenhamos dinheiro
+              pra concluir os projetos que quisermos de forma autônoma.
             </p>
           </div>
         </article>
 
         <article class={`art-prop-2`}>
           <div class={`text-prop-group`}>
-            <h2 class={`art-title`}>O que é o CAWS</h2>
+            <h2 class={`art-title`}>Prestação de Contas</h2>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Prestação de contas trimestrais: o objetivo é deixar acessível a
+              todos vocês o que o CAWS está fazendo e o porquê está fazendo, com
+              maior frequência, para diminuir a distância entre o CA e o curso.
             </p>
           </div>
         </article>

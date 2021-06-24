@@ -23,9 +23,7 @@ export default function SobreNos() {
         <div class={`overlay`}>
           <div class={`title-group`}>
             <h2 class={`title`}>A CAES</h2>
-            <h3 class={`subtitle`}>
-              Nós somos a chapa mais quente que você já viu
-            </h3>
+            <h3 class={`subtitle`}>Chapa Acadêmica Ester Sabino</h3>
           </div>
           <div class={`button-group`}>
             <button class={`button-prop`}>
@@ -45,13 +43,31 @@ export default function SobreNos() {
 
       <div class={`art-sbn-group`}>
         <article class={`art-1`}>
-          <img class={`art-img chapa`} src={`chapa.png`} />
+          <div class={`art-img chapa`}></div>
           <div class={`text-group`}>
             <h2 class={`art-title`}>A Chapa</h2>
-
+            <h3 class={`art-subtitle`}>Nossos valores</h3>
             <p class={`art-text`}>
-              Talvez alguma coisa sobre a formação da chapa ou algo geral sobre
-              os membros ou os nossos valores.
+              A <span class={`bold`}>Chapa Acadêmica Ester Sabino</span> surge
+              como a união de estudantes que desejam realizar o melhor possível
+              pelo curso de Física. Priorizamos a escolha de um nome feminino
+              por representatividade, já que até o momentos só tivemos nomes
+              masculinos. O nome Ester Sabino foi escolhido como homenagem a
+              brasileira professora/pesquisadora/médica que sequenciou o covid
+              em dois dias. Entre as nossas prioridades, enquanto chapa,
+              destacamos o nosso desejo imenso de estabelecer com os estudantes
+              e colegas um contato de forma mais abrangente, próxima e íntima. É
+              nosso desejo também, que esse contato perpasse a esfera
+              estudante-estudante e se estenda a esfera estudante-professor.
+              Entedemos como primordial para um bom processo de
+              ensino-aprendizagem que os docentes e discentes estejam unidos e
+              engajados em um só objetivo. Infelizmente a pandemia acobou por
+              nos separar físicamente e, com isso, perdemos o calor humano e as
+              relações interpessoais e afetivas que são construidas e
+              consolidadas no dia a dia em sala de aula. Tendo em mente esse
+              fato, trabalharemos para que ocorram momentos de aproximação,
+              vitual por hora, para que mesmo que estejamos distantes, estejamos
+              proximos. Assim ninguém se sente sozinho e um ajuda ao outro.
             </p>
           </div>
         </article>
@@ -72,13 +88,13 @@ export default function SobreNos() {
               para ficar centralizado bonitinho. Foto do CAWS ou do campus?
             </p>
           </div>
-          <img class={`art-img`} src={`natasha.jpeg`} />
+          <div class={`art-img natasha`}></div>
         </article>
       </div>
 
       <div class={`art-sbn-group`}>
         <article class={`art-1`}>
-          <img class={`art-img`} src={`arthur.jpeg`} />
+          <div class={`art-img arthur`}></div>
           <div class={`text-group`}>
             <h2 class={`art-title`}>Arthur</h2>
             <h3 class={`art-subtitle`}>Vice presidente</h3>
@@ -112,13 +128,13 @@ export default function SobreNos() {
               para ficar centralizado bonitinho. Foto do CAWS ou do campus?
             </p>
           </div>
-          <img class={`art-img`} src={`galeano.jpeg`} />
+          <div class={`art-img galeano`}></div>
         </article>
       </div>
 
       <div class={`art-sbn-group`}>
         <article class={`art-1`}>
-          <img class={`art-img`} src={`mauricio.jpeg`} />
+          <div class={`art-img mauricio`}></div>
           <div class={`text-group mau`}>
             <h2 class={`art-title`}>Maurício Matos</h2>
             <h3 class={`art-subtitle`}>
@@ -155,13 +171,13 @@ export default function SobreNos() {
             </p>
           </div>
 
-          <img class={`art-img`} src={`felipe.jpeg`} />
+          <div class={`art-img felipe`}></div>
         </article>
       </div>
 
       <div class={`art-sbn-group`}>
         <article class={`art-1`}>
-          <img class={`art-img`} src={`patrick.jpeg`} />
+          <div class={`art-img patrick`}></div>
           <div class={`text-group`}>
             <h2 class={`art-title`}>Patrick Cardoso</h2>
             <h3 class={`art-subtitle`}>Secretário Geral</h3>
@@ -195,15 +211,15 @@ export default function SobreNos() {
               para ficar centralizado bonitinho. Foto do CAWS ou do campus?
             </p>
           </div>
-          <img class={`art-img`} src={`alice.jpeg`} />
+          <div class={`art-img alice`}></div>
         </article>
       </div>
 
       <div class={`art-sbn-group`}>
         <article class={`art-1`}>
-          <img class={`art-img`} src={`natasha.jpeg`} />
+          <div class={`art-img ivo`}></div>
           <div class={`text-group`}>
-            <h2 class={`art-title`}>Ivo</h2>
+            <h2 class={`art-title`}>Ivo Amorim</h2>
             <h3 class={`art-subtitle`}>Tesoureiro</h3>
             <p class={`art-text`}>
               Texto informativo sobre o que é o CAWS e sua importância. Um texto
@@ -235,7 +251,7 @@ export default function SobreNos() {
               para ficar centralizado bonitinho. Foto do CAWS ou do campus?
             </p>
           </div>
-          <img class={`art-img`} src={`julya.jpeg`} />
+          <div class={`art-img julya`}></div>
         </article>
       </div>
 

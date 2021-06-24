@@ -2,92 +2,154 @@
   display: grid;
   grid-template-areas: 'logo button-group';
   align-items: center;
+  background-color: transparent;
+  z-index: 2;
 
-  @media screen and (max-width: 520px) {
-    margin-left: -30px;
-    margin-right: -30px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  @media (min-width: 768px) {
+    padding-top: 16px;
   }
 
   .logo {
     grid-area: logo;
-    font-size: 40px;
+    font-size: 35px;
+    padding-left: 30px;
     font-weight: 800;
-
-    @media screen and (max-width: 520px) {
-      font-size: 35px;
+    @media (min-width: 992px) {
+      width: 150px;
+      height: 40px;
+      font-size: 40px;
     }
   }
-
   .button-group {
-    grid-area: button-group;
-    justify-self: end;
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    z-index: 20;
+    display: none;
 
-    @media screen and (max-width: 520px) {
-      display: none;
-    }
-
-    .button-sbn {
-      grid-area: button-sbn;
-      color: #424242;
+    @media (min-width: 768px) {
+      padding-right: 30px;
+      grid-area: 'button-group';
       background-color: transparent;
-      width: 182px;
-      height: 41px;
-      font-weight: 600;
-      font-size: 20px;
-      border-radius: 10px;
-      border: none;
+      display: grid;
+      grid-template-areas: 'button-sbn button-prop ';
 
-      @media screen and (max-width: 992px) {
-        font-size: 18px;
-        width: 170px;
-        height: 41px;
+      justify-self: end;
+
+      .button-prop {
+        grid-area: button-prop;
+        width: 150px;
+        background-color: #424242;
+        border-radius: 20px;
+        border: none;
+
+        @media (min-width: 992px) {
+          width: 150px;
+          height: 40px;
+          font-size: 17px;
+        }
       }
 
-      @media screen and (max-width: 768px) {
-        font-size: 16px;
-        width: 160px;
-        height: 31px;
-      }
+      .button-sbn {
+        grid-area: button-sbn;
+        width: 150px;
 
-      @media screen and (max-width: 520px) {
-        margin-left: -30px;
-        margin-right: -30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-    }
-
-    .button-prop {
-      grid-area: button-prop;
-      border: none;
-      color: #f6f6f6;
-      background-color: #424242;
-      width: 182px;
-      height: 41px;
-      font-weight: 600;
-      font-size: 20px;
-      border-radius: 10px;
-
-      @media screen and (max-width: 992px) {
-        font-size: 18px;
-        width: 170px;
-        height: 41px;
-      }
-
-      @media screen and (max-width: 768px) {
-        font-size: 16px;
-        width: 160px;
-        height: 31px;
+        @media (min-width: 992px) {
+          width: 150px;
+          height: 40px;
+          font-size: 17px;
+        }
       }
     }
   }
 }
+
+// .nav-bar {
+//   display: grid;
+//   grid-template-areas: 'logo button-group';
+//   align-items: center;
+
+//   @media screen and (max-width: 520px) {
+//     margin-left: -30px;
+//     margin-right: -30px;
+
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//   }
+
+//   .logo {
+//     grid-area: logo;
+//     font-size: 40px;
+//     font-weight: 800;
+
+//     @media screen and (max-width: 520px) {
+//       font-size: 35px;
+//     }
+//   }
+
+//   .button-group {
+//     grid-area: button-group;
+//     justify-self: end;
+//     display: flex;
+//     flex-direction: row;
+//     align-content: center;
+//     z-index: 20;
+
+//     @media screen and (max-width: 520px) {
+//       display: none;
+//     }
+
+//     .button-sbn {
+//       grid-area: button-sbn;
+//       color: #424242;
+//       background-color: transparent;
+//       width: 182px;
+//       height: 41px;
+//       font-weight: 600;
+//       font-size: 20px;
+//       border-radius: 10px;
+//       border: none;
+
+//       @media screen and (max-width: 992px) {
+//         font-size: 18px;
+//         width: 170px;
+//         height: 41px;
+//       }
+
+//       @media screen and (max-width: 768px) {
+//         font-size: 16px;
+//         width: 160px;
+//         height: 31px;
+//       }
+
+//       @media screen and (max-width: 520px) {
+//         margin-left: -30px;
+//         margin-right: -30px;
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//       }
+//     }
+
+//     .button-prop {
+//       grid-area: button-prop;
+//       border: none;
+//       color: #f6f6f6;
+//       background-color: #424242;
+//       width: 182px;
+//       height: 41px;
+//       font-weight: 600;
+//       font-size: 20px;
+//       border-radius: 10px;
+
+//       @media screen and (max-width: 992px) {
+//         font-size: 18px;
+//         width: 170px;
+//         height: 41px;
+//       }
+
+//       @media screen and (max-width: 768px) {
+//         font-size: 16px;
+//         width: 160px;
+//         height: 31px;
+//       }
+//     }
+//   }
+// }
