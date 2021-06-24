@@ -23,9 +23,7 @@ export default function SobreNos() {
         <div class={`overlay`}>
           <div class={`title-group`}>
             <h2 class={`title`}>Nosso futuro</h2>
-            <h3 class={`subtitle`}>
-              Nós somos a chapa mais quente que você já viu
-            </h3>
+            <h3 class={`subtitle`}>Veja as nossas propostas para o CA</h3>
           </div>
           <div class={`button-group`}>
             <button class={`button-prop`}>
