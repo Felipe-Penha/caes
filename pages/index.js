@@ -119,7 +119,7 @@ export default function Home() {
                 meio de um Comitê Emergencial de Crise. Este comitê se dedicou a
                 manter um diálogo direto e franco com os estudantes do curso.
                 Durante o período pandemico, as ações foram restritas a este
-                âmbito. Agora em 06/2021 a gestão Saulo-Hellen se prepapra para
+                âmbito. Agora em 06/2021 a gestão Hellen-Saulo se prepapra para
                 passar a direção desta instituição para uma nova gestão.
               </p>
             </div>

@@ -1,19 +1,19 @@
 .footer {
-  @media (min-width: 768px) {
+  @media (min-width: 48rem) {
     display: grid;
     grid-template-areas: 'logo button-group';
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 48rem) {
     background-color: #424242;
-    border-radius: 20px 20px 0 0px;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    border-radius: 1.25rem 1.25rem 0 0px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   .logo {
     grid-area: logo;
-    font-size: 35px;
+    font-size: 2.1875rem;
     display: flex;
     justify-content: center;
     font-weight: 800;
@@ -22,13 +22,13 @@
     transition-duration: 0.2s;
     transition-timing-function: ease-in-out;
 
-    @media (max-width: 767px) {
+    @media (max-width: 47.9375rem) {
       background-color: #424242;
-      border-radius: 20px 20px 0 0px;
+      border-radius: 1.25rem 1.25rem 0 0px;
     }
 
-    @media (min-width: 768px) {
-      padding-left: 30px;
+    @media (min-width: 48rem) {
+      padding-left: 1.875rem;
       justify-content: start;
     }
   }
@@ -43,8 +43,8 @@
     grid-area: button-group;
     display: none;
 
-    @media (min-width: 768px) {
-      padding-right: 30px;
+    @media (min-width: 48rem) {
+      padding-right: 1.875rem;
       grid-area: 'button-group';
       background-color: transparent;
       display: grid;
@@ -55,18 +55,18 @@
 
       .button-prop {
         grid-area: button-prop;
-        width: 150px;
+        width: 9.375rem;
         background-color: #fff;
-        border-radius: 20px;
+        border-radius: 1.25rem;
         border: none;
         transition-property: all;
         transition-duration: 0.2s;
         transition-timing-function: ease-in-out;
 
-        @media (min-width: 992px) {
-          width: 150px;
-          height: 40px;
-          font-size: 17px;
+        @media (min-width: 62rem) {
+          width: 9.375rem;
+          height: 2.5rem;
+          font-size: 1.0625rem;
         }
       }
 
@@ -80,15 +80,15 @@
 
       .button-sbn {
         grid-area: button-sbn;
-        width: 150px;
+        width: 9.375rem;
         transition-property: all;
         transition-duration: 0.2s;
         transition-timing-function: ease-in-out;
 
-        @media (min-width: 992px) {
-          width: 150px;
-          height: 40px;
-          font-size: 17px;
+        @media (min-width: 62rem) {
+          width: 9.375rem;
+          height: 2.5rem;
+          font-size: 1.0625rem;
         }
       }
 
@@ -104,8 +104,8 @@
 
 // .footer {
 //   background-color: #424242;
-//   border-radius: 10px 20px 0px 0;
-//   margin-top: 40px;
+//   border-radius: 10px 1.25rem 0px 0;
+//   margin-top: 2.5rem;
 //   margin-left: -80px;
 //   margin-right: -80px;
 //   display: grid;
@@ -114,15 +114,15 @@
 //   padding-top: 10px;
 //   padding-bottom: 10px;
 
-//   @media screen and (max-width: 768px) {
-//     margin-left: -30px;
-//     margin-right: -30px;
+//   @media screen and (max-width: 48rem) {
+//     margin-left: -1.875rem;
+//     margin-right: -1.875rem;
 //     justify-items: center;
 //   }
 
-//   @media screen and (max-width: 520px) {
-//     margin-left: -30px;
-//     margin-right: -30px;
+//   @media screen and (max-width: 51.25rem) {
+//     margin-left: -1.875rem;
+//     margin-right: -1.875rem;
 
 //     display: flex;
 //     justify-content: center;
@@ -132,17 +132,17 @@
 //   .logo {
 //     margin-left: 80px;
 //     grid-area: logo;
-//     font-size: 40px;
+//     font-size: 2.5rem;
 //     font-weight: 800;
 //     color: #f6f6f6;
 
-//     @media screen and (max-width: 768px) {
-//       font-size: 35px;
-//       margin-left: 20px;
+//     @media screen and (max-width: 48rem) {
+//       font-size: 2.1875rem;
+//       margin-left: 1.25rem;
 //     }
 
-//     @media screen and (max-width: 520px) {
-//       font-size: 35px;
+//     @media screen and (max-width: 51.25rem) {
+//       font-size: 2.1875rem;
 //       margin-left: 0;
 //     }
 //   }
@@ -155,7 +155,7 @@
 //     flex-direction: row;
 //     align-content: center;
 
-//     @media screen and (max-width: 520px) {
+//     @media screen and (max-width: 51.25rem) {
 //       display: none;
 //     }
 
@@ -166,18 +166,18 @@
 //       width: 182px;
 //       height: 41px;
 //       font-weight: 600;
-//       font-size: 20px;
-//       border-radius: 20px;
+//       font-size: 1.25rem;
+//       border-radius: 1.25rem;
 //       border: none;
 
-//       @media screen and (max-width: 992px) {
+//       @media screen and (max-width: 62rem) {
 //         font-size: 18px;
 //         width: 170px;
-//         height: 40px;
+//         height: 2.5rem;
 //       }
 
-//       @media screen and (max-width: 768px) {
-//         font-size: 16px;
+//       @media screen and (max-width: 48rem) {
+//         font-size: 1rem;
 //         width: 160px;
 //         height: 39px;
 //       }
@@ -191,17 +191,17 @@
 //       width: 182px;
 //       height: 41px;
 //       font-weight: 600;
-//       font-size: 20px;
+//       font-size: 1.25rem;
 //       border-radius: 10px;
 
-//       @media screen and (max-width: 992px) {
+//       @media screen and (max-width: 62rem) {
 //         font-size: 18px;
 //         width: 170px;
-//         height: 40px;
+//         height: 2.5rem;
 //       }
 
-//       @media screen and (max-width: 768px) {
-//         font-size: 16px;
+//       @media screen and (max-width: 48rem) {
+//         font-size: 1rem;
 //         width: 160px;
 //         height: 39px;
 //       }
