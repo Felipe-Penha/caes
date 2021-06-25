@@ -74,11 +74,11 @@ export default function Home() {
               </p>
               <p class={`art-text-2`}>
                 Uma primeira tentativa de estrutura formal foi iniciada em 2015,
-                porém não seguiu adiante. Ao final de 2016 há um processo de
+                porém não seguiu adiante. Ao final de 2016, há um processo de
                 reestruturação do Centro Acadêmico.
               </p>
               <p class={`art-text-3`}>
-                Em 2017 elege-se uma nova direção para a instituição, direção
+                Em 2017, elege-se uma nova direção para a instituição, direção
                 esta presidida pelos discentes Carlos Ivan Falcão Fehlberg e
                 Bernado Pessin Moreira. Com a consolidação da gestão
                 Carlos-Bernardo muitas conquistas são alcançadas, dentre elas o
@@ -93,16 +93,16 @@ export default function Home() {
                 e de vivência para os estudantes da Física.
               </p>
               <p class={`art-text-4`}>
-                Em setembro de 2018 finda-se a gestão Carlos-Bernado e, por meio
-                de processo eleitoral democrático, elege-se uma nova diretoria
-                que veio a gerir o CaWS até os dia de hoje (06/2021). A direção
-                que se inicia em 2018 é presidida pelos discentes Saulo Gomes
-                dos Santos Vilar e Hellen Kássia de Oliveira Costa. A gestão
-                Hellen-Saulo se inicia dando continuidade às ações iniciadas na
-                era Carlos-Bernardo. Prossegue-se realizando eventos para
-                interação dos estudantes, lutando por uma educação pública,
-                gratuita e de qualidade. O momento político que a gestão
-                Hellen-Saulo enfrenta é conturbado, cortes na educação,
+                Em setembro de 2018, finda-se a gestão Carlos-Bernado e, por
+                meio de processo eleitoral democrático, elege-se uma nova
+                diretoria que veio a gerir o CaWS até os dia de hoje (06/2021).
+                A direção que se inicia em 2018 é presidida pelos discentes
+                Saulo Gomes dos Santos Vilar e Hellen Kássia de Oliveira Costa.
+                A gestão Hellen-Saulo se inicia dando continuidade às ações
+                iniciadas na era Carlos-Bernardo. Prossegue-se realizando
+                eventos para interação dos estudantes, lutando por uma educação
+                pública, gratuita e de qualidade. O momento político que a
+                gestão Hellen-Saulo enfrenta é conturbado, cortes na educação,
                 polarização política, estudantes atingidos direta e
                 indiretamente pelas políticas publicas, as percepções dos
                 estudantes dos impactos dos cortes dentre outros assuntos que
