@@ -7,6 +7,7 @@
 @import 'Footer.module.scss';
 @import 'ArticleProp.module.scss';
 @import 'ArticleSbn.module.scss';
+@import 'Animations.module.scss';
 
 *,
 html {
@@ -32,10 +33,6 @@ button {
   opacity: 0.98;
 }
 .footer {
-  @media (min-width: 768px) {
-    padding-top: 16px;
-    padding-bottom: 16px;
-  }
   .logo {
     a {
       color: #f6f6f6;
