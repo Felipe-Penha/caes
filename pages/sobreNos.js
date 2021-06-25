@@ -77,17 +77,18 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Natasha Oliveira</h2>
             <h3 class={`art-subtitle`}>Presidente</h3>
             <p class={`art-text`}>
-              Meu nome é Natasha, tenho 25 anos, sou da turma de 2020/1. Sou bem
-              ecletica quando se trata de música, vou de barões da pisadinha até
-              imagine dragons.Eu fazia engenharia civil, e na engenharia percebi
-              que gostava mais da parte da física, fiz a mudança de curso e hoje
-              me encontrei no curso. Como presidente espero que junto com a
-              chapa possamos principalmente nesse momento remoto deixar tudo
-              menos frio para os alunos e professores, que mesmo um contato
-              virtual possa ser caloroso, que possamos construir algo agradável
-              a todos. E que atenda a todos, todos nós temos sentido nossas
-              dificuldades no quadro atual, mas ninguém está sozinho, estamos
-              aqui para pegar na mão de todos e caminharmos juntos.
+              Bem eclética quando se trata de música, vai de Barões da Pisadinha
+              a Imagine Dragos. Tem 25 anos, ingressou no IFES na turma 2020/1,
+              é líder de sua turma e está no PIBID. Estudou Engenharia Civil,
+              mas optou pela mudança de curso por perceber seu gosto pela
+              Física. Agora, sente que se encontrou. Como Presidente, espera que
+              junto à chapa possa, principalmente nesse momento de atividades
+              remotas, deixar tudo menos frio para os estudantes e professores,
+              que mesmo um contato virtual possa ser caloroso, que possa
+              construir algo agradável a todos e que os atenda. &#34;Todos nós
+              temos sentido nossas dificuldades no quadro atual, mas ninguém
+              está sozinho, estamos aqui para pegar na mão de todos e
+              caminharmos juntos.&#34;
             </p>
           </div>
           <div class={`art-img natasha`}></div>
@@ -101,13 +102,12 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Arthur</h2>
             <h3 class={`art-subtitle`}>Vice presidente</h3>
             <p class={`art-text`}>
-              Meu nome é Arthur Ferreira, tenho 21 anos de idade, sou aluno do
-              curso de física desde 2020. Sou bem eclético, porém eu escuto mais
-              RAP, amo surfar e viajar. Eu como candidato a Vice-presidente do
-              CAWS pretendo junto a Natasha desenvolver uma melhora no curso,
-              tornando o EAD temporário um pouco mais prazeroso e aprimorando
-              cada vez mais o centro acadêmico. Espero suprir as espectativas de
-              todos!.
+              Tem 21 anos, é estudante do curso de Física desde 2020. Bem
+              eclético em relação à música, embora prefira RAP, ama surfar e
+              viajar. Como Vice-Presidente do CAWS, pretende, junto a Natasha,
+              desenvolver melhorias para o curso, tentando tornar as atividades
+              remotas mais prazerosas e aprimorando, cada vez mais, o centro
+              acadêmico. Espera suprir às expectativas de todos.
             </p>
           </div>
         </article>
@@ -121,11 +121,11 @@ export default function SobreNos() {
               instrumentação científica, espectroscopia e divulgação científica.
               Membro ativo da chapa anterior do Caws, onde foi responsável pela
               comunicação geral, pelas recepções dos calouros entre outras
-              atividades. Conhecido por ser nerd, gostar de assuntos como
+              atividades. Conhecido por ser Nerd, gostar de assuntos como
               quadrinhos, ficção científica, livros, animes, mangás, filmes,
               séries e cultura pop em geral. Tem o gosto musical mais voltado
-              pro pop, pro Rock, pro Rap e com um fraco por grupos a capela. Tem
-              o costume de entrar em todo e qualquer grupo possível.
+              para o Pop, Rock, RAP e com um fraco por grupos a capela. Tem o
+              costume de entrar em todo e qualquer grupo possível.
             </p>
           </div>
           <div class={`art-img galeano`}></div>
@@ -164,15 +164,14 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Felipe Penha</h2>
             <h3 class={`art-subtitle`}>2º Secretário de Comunicação</h3>
             <p class={`art-text`}>
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
-              Texto informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?Texto
-              informativo sobre o que é o CAWS e sua importância. Um texto
-              grande o suficiente para chegar até o pé da imagem, no máximo. Ou
-              para ficar centralizado bonitinho. Foto do CAWS ou do campus?
+              Tem 24 anos, ingressou no IFES na turma 2017/1. Gosta de livros,
+              jogos, esportes, arte e música, vai da clássica à eletrônica, com
+              paradas na MPB e no Indie. Foi mediador na Escola da
+              Ciência-Física, foi bolsista do PIBID, foi estagiário da SEDU,
+              está na Residência Pedagógica e estuda programação e modelagem 3D.
+              Como membro do CAWS, espera aproximar discentes e docentes, mesmo
+              sob o regime de ativades remotas, abastecendo-os de informação e
+              acesso a recursos digitais.
             </p>
           </div>
 
@@ -203,14 +202,14 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Maria Alice</h2>
             <h3 class={`art-subtitle`}>Vice da Secretaria Geral</h3>
             <p class={`art-text`}>
-              Olá galera, eu sou a Maria Alice, estudante da turma de 2020.
-              Descobri meu interesse pela física graças a uma iniciação
-              científica que fiz durante o ensino médio e desde então a paixão
-              só cresceu. Tenho um gosto musical bem variado mas ouço
-              principalmente MPB, samba e rock e amo assistir filmes de ficção
-              científica, fantasia, terror e animações. No meu tempo livre eu
-              curto muito cantar, jogar jogos eletrônicos, ir ao cinema, ouvir
-              podcast e me reunir com os meus amigos.
+              Estudante da turma 2020/1, descobriu o seu interesse pela Física
+              graças a uma Iniciação Científica que fez durante o ensino médio,
+              desde então, sua paixão pela Física só cresceu. Tem gosto musical
+              bem variado, mas ouve, principalmente, MPB, Samba e Rock, ama
+              assistir filmes de ficção científica, fantasia, terror e
+              animações. Em seu tempo livre, gosta muito de cantar, jogar jogos
+              eletrônicos, ir ao cinema, ouvir podcast e se reunir com os seus
+              amigos.
             </p>
           </div>
           <div class={`art-img alice`}></div>
@@ -224,11 +223,13 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Ivo Amorim</h2>
             <h3 class={`art-subtitle`}>Tesoureiro</h3>
             <p class={`art-text`}>
-              Ivo Souto de Amorim 27 anos Eclético mas prefere musicas fundo do
-              poço kk Gosto de jogar, ver vídeos, series, hqs, sair com amigos ,
-              conversar... O que me fez escolher foi minha ex professora de
-              física Aline Gama do ifes Vitória Como tesoureiro pretendo manter
-              a transparência e serenidade e ajudar ao máximo em tudo que puder
+              Tem 27 anos, é eclético, mas prefere músicas fundo de poço, gosta
+              de jogar, assistir a vídeos, séries, ler histórias em quadrinhos,
+              sair com os amigos e conversar. O que o fez escolher o curso de
+              Física foi o exemplo de sua ex-professora de Física Aline Gama,
+              Ifes-Vitória. Como Tesoureiro, pretende manter a transparência e a
+              serenidade do setor financeiro do CAWS, ajudando ao máximo em tudo
+              o que puder.
             </p>
           </div>
         </article>
@@ -238,13 +239,13 @@ export default function SobreNos() {
             <h2 class={`art-title`}>Julya Vieira</h2>
             <h3 class={`art-subtitle`}>Vice da Tesouraria</h3>
             <p class={`art-text`}>
-              Sempre sonhou em dar aula desde criança e esse sempre foi seu
-              sonho, a escolha do curso não foi muito difícil já que sempre
-              gostou bastante de física e possui afinidade. Nas horas livres
-              costuma desenhar e ouvir música ou ver uma série, o gosto musical
-              é bem eclético mesmo, e gosta muito de séries e filmes de
-              fantasia. Um dos seus hobbies é maquiar, tanto que é maquiadora
-              nas horas livres também.
+              Sempre sonhou em dar aula desde criança e este sempre foi o seu
+              sonho. A escolha do curso não foi muito difícil, já que sempre
+              gostou muito de física e possui afinidade. Nas horas livres,
+              costuma desenhar e ouvir música ou assistir a uma série, tem gosto
+              musical bem eclético e gosta muito de séries e filmes de fantasia.
+              Um de seus hobbies é a maquiagem, tanto que é maquiadora nas horas
+              livres.
             </p>
           </div>
           <div class={`art-img julya`}></div>
