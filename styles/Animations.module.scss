@@ -1,4 +1,4 @@
-@keyframes hero-index {
+@keyframes container {
   from {
     opacity: 0;
   }
@@ -19,17 +19,98 @@
   }
 }
 
-// .nav-bar {
-//   .logo {
-//     animation-name: logo;
-//     animation-duration: 1s;
-//     animation-timing-function: ease-in-out;
-//     position: relative;
-//   }
-// }
+@keyframes up-down {
+  0% {
+    opacity: 0;
+    bottom: 10px;
+  }
+
+  100% {
+    opacity: 1;
+    bottom: 0px;
+  }
+}
+
+@keyframes down-up {
+  0% {
+    opacity: 0;
+    top: 10px;
+  }
+
+  100% {
+    opacity: 1;
+    top: 0px;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes background {
+  0% {
+    opacity: 0;
+    background-position-x: 20px;
+  }
+  100% {
+    opacity: 1;
+    background-position-x: 0px;
+  }
+}
+
+.nav-bar {
+  .logo {
+    animation-name: logo;
+
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    position: relative;
+  }
+}
 
 .container {
-  animation-name: hero-index;
+  animation-name: container;
   animation-duration: 0.5s;
   animation-timing-function: ease-in-out;
+}
+
+.hero,
+.hero-prop,
+.hero-sbn {
+  // animation-name: background;
+  // animation-duration: 0.5s;
+  // animation-timing-function: ease-in-out;
+
+  .overlay {
+    animation-name: container;
+
+    animation-duration: 0.9s;
+    animation-timing-function: ease-in-out;
+
+    .title {
+      position: relative;
+      animation-name: up-down;
+      animation-duration: 0.8s;
+      animation-timing-function: ease-in-out;
+    }
+
+    .subtitle {
+      position: relative;
+      animation-name: down-up;
+      animation-duration: 0.8s;
+      animation-timing-function: ease-in-out;
+    }
+
+    .button-group {
+      animation-name: fade-in;
+      animation-duration: 1s;
+      animation-timing-function: ease-in-out;
+    }
+  }
 }
