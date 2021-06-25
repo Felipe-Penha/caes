@@ -109,17 +109,17 @@ export default function Home() {
                 acabaram por agitar a gestão. O CAWS não se absteve e foi a
                 luta, apoiou e participou de protestos pela educação, incentivou
                 e ouviu os estudantes e seus pontos de vista, enfim, atuou
-                dentro de suas competências. Mas a gestão Hellen-Saulo estava
+                dentro de suas competências. Mas a gestão Saulo-Hellen estava
                 longe de ter encerrado sua participação, quando iniciou-se o
                 processo para a eleição de uma nova chapa no início de 2020, a
                 OMS declara a Pandemia do Corana Vírus, e apartir dai inicia-se
-                a gestão interina desta direção. A gestão Hellen-Saulo se aliou
+                a gestão interina desta direção. A gestão Saulo-Hellen se aliou
                 à coordenadoria do curso e à direção do campus na composição de
                 estratégias de enfrentamento a pandemia, tal aliança se deu por
                 meio de um Comitê Emergencial de Crise. Este comitê se dedicou a
                 manter um diálogo direto e franco com os estudantes do curso.
                 Durante o período pandemico, as ações foram restritas a este
-                âmbito. Agora em 06/2021 a gestão Hellen-Saulo se prepapra para
+                âmbito. Agora em 06/2021 a gestão Saulo-Hellen se prepapra para
                 passar a direção desta instituição para uma nova gestão.
               </p>
             </div>
