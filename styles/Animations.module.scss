@@ -56,11 +56,9 @@
 @keyframes background {
   0% {
     opacity: 0;
-    background-position-x: 20px;
   }
   100% {
     opacity: 1;
-    background-position-x: 0px;
   }
 }
 
@@ -89,9 +87,9 @@
 .hero,
 .hero-prop,
 .hero-sbn {
-  // animation-name: background;
-  // animation-duration: 0.5s;
-  // animation-timing-function: ease-in-out;
+  animation-name: background;
+  animation-duration: 0.5s;
+  animation-timing-function: ease-in-out;
 
   .overlay {
     animation-name: container;
