@@ -98,11 +98,11 @@ export default function Home() {
                 diretoria que veio a gerir o CaWS até os dia de hoje (06/2021).
                 A direção que se inicia em 2018 é presidida pelos discentes
                 Saulo Gomes dos Santos Vilar e Hellen Kássia de Oliveira Costa.
-                A gestão Hellen-Saulo se inicia dando continuidade às ações
+                A gestão Saulo-Hellen se inicia dando continuidade às ações
                 iniciadas na era Carlos-Bernardo. Prossegue-se realizando
                 eventos para interação dos estudantes, lutando por uma educação
                 pública, gratuita e de qualidade. O momento político que a
-                gestão Hellen-Saulo enfrenta é conturbado, cortes na educação,
+                gestão Saulo-Hellen enfrenta é conturbado, cortes na educação,
                 polarização política, estudantes atingidos direta e
                 indiretamente pelas políticas publicas, as percepções dos
                 estudantes dos impactos dos cortes dentre outros assuntos que
