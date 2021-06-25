@@ -116,6 +116,9 @@
         border-radius: 20px;
         border: none;
         width: 100px;
+        transition-property: all;
+        transition-duration: 0.2s;
+        transition-timing-function: ease-in-out;
 
         @media (min-width: 992px) {
           width: 150px;
@@ -124,14 +127,29 @@
         }
       }
 
+      .button-prop:hover {
+        background-color: #35af4e;
+        cursor: pointer;
+      }
+
       .button-sbn {
         grid-area: button-sbn;
         width: 100px;
+        transition-property: all;
+        transition-duration: 0.2s;
+        transition-timing-function: ease-in-out;
 
         @media (min-width: 992px) {
           width: 150px;
           height: 40px;
           font-size: 17px;
+        }
+      }
+
+      .button-sbn:hover {
+        a {
+          color: #35af4e;
+          cursor: pointer;
         }
       }
     }
