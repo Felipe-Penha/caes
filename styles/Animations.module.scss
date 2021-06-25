@@ -72,6 +72,12 @@
     animation-timing-function: ease-in-out;
     position: relative;
   }
+
+  .button-group {
+    animation-name: fade-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+  }
 }
 
 .container {
