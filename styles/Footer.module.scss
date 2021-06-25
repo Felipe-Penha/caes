@@ -18,6 +18,9 @@
     justify-content: center;
     font-weight: 800;
     background-color: transparent;
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
 
     @media (max-width: 767px) {
       background-color: #424242;
@@ -29,6 +32,13 @@
       justify-content: start;
     }
   }
+
+  .logo:hover {
+    a {
+      color: #45d761;
+    }
+  }
+
   .button-group {
     grid-area: button-group;
     display: none;
@@ -49,6 +59,9 @@
         background-color: #fff;
         border-radius: 20px;
         border: none;
+        transition-property: all;
+        transition-duration: 0.2s;
+        transition-timing-function: ease-in-out;
 
         @media (min-width: 992px) {
           width: 150px;
@@ -57,15 +70,33 @@
         }
       }
 
+      .button-prop:hover {
+        background-color: #45d761;
+        a {
+          color: #f2f2f2;
+        }
+        cursor: pointer;
+      }
+
       .button-sbn {
         grid-area: button-sbn;
         width: 150px;
+        transition-property: all;
+        transition-duration: 0.2s;
+        transition-timing-function: ease-in-out;
 
         @media (min-width: 992px) {
           width: 150px;
           height: 40px;
           font-size: 17px;
         }
+      }
+
+      .button-sbn:hover {
+        a {
+          color: #45d761;
+        }
+        cursor: pointer;
       }
     }
   }
