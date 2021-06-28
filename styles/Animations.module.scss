@@ -7,6 +7,12 @@
   }
 }
 
+@keyframes rainbow {
+  to {
+    background-position: 0 100vh;
+  }
+}
+
 @keyframes logo {
   0% {
     opacity: 0;
@@ -69,6 +75,22 @@
     animation-duration: 0.5s;
     animation-timing-function: ease-in-out;
     position: relative;
+
+    .rainbow {
+      background-image: linear-gradient(
+        to bottom,
+        red,
+        orange,
+        yellow,
+        green,
+        blue,
+        indigo,
+        violet
+      );
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rainbow 35s linear infinite;
+    }
   }
 
   .button-group {

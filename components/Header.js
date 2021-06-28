@@ -6,7 +6,7 @@ const Header = () => {
     <nav class={`nav-bar`}>
       <h1 class={`logo`}>
         <Link href='/'>
-          <a>CAES</a>
+          <a class={`rainbow`}>CAES</a>
         </Link>
       </h1>
       <div class={`button-group`}>
